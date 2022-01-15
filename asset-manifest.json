@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fs-questions/react-button/public/index.html/static/css/main.073c9b0a.css",
+    "main.js": "/fs-questions/react-button/public/index.html/static/js/main.1599b6cc.js",
+    "index.html": "/fs-questions/react-button/public/index.html/index.html",
+    "main.073c9b0a.css.map": "/fs-questions/react-button/public/index.html/static/css/main.073c9b0a.css.map",
+    "main.1599b6cc.js.map": "/fs-questions/react-button/public/index.html/static/js/main.1599b6cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1599b6cc.js"
+  ]
+}
